@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #0F63AF;
+}
+.logo img {
+    height: 55px;
+    margin: 10px;
+}
+.nav-item {
+    color: #0F63AF;
+    font-size: 24px;
+    padding: 20px;
+}
+ion-icon {
+  font-size: 64px;
+  color: #0F63AF;
+  padding: 20px;
+}
