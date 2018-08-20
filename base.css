@@ -63,6 +63,8 @@ input[type=date] {
     background-position: center;    
     background-repeat: no-repeat;
     height: 600px;
-     
-    
 }
+.rectangle {
+    background-color: white;
+    margin-top: 50px;
+ }
