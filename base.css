@@ -4,6 +4,7 @@ body {
 }
 body h1 {
     font-size: 50px;
+    margin-top: 30px;
 }
 body p {
     font-size: 26px;
@@ -54,5 +55,14 @@ input[type=date] {
     font-size: 20px;
     height: 50px;
     width: 200px;
-    margin: 20px;
+    margin-bottom: 60px;
+    margin-top: 20px;
+}
+.how {
+    background: url("img/dots.png");
+    background-position: center;    
+    background-repeat: no-repeat;
+    height: 600px;
+     
+    
 }
