@@ -32,3 +32,27 @@ ion-icon {
 .header-text {
     margin-top: 55px;
 }
+input {
+   
+    border: 1px solid #0F63AF;
+   
+    color: #0F63AF;
+    background-position: 5px 5px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    
+}
+input[type=text] {
+    background-image: url('img/pin.png');
+}
+input[type=date] {
+    background-image: url('img/date.png');
+}
+.btn {
+    background-color: #FF9900;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+    margin: 20px;
+}
