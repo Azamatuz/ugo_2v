@@ -80,5 +80,11 @@ input[type=date] {
 }
 .about a {
     color: #0F63AF;
-    text-decoration: underline;
+    text-decoration: underline;    
+}
+.services {
+    padding-top: 60px;
+}
+.services img {
+     max-width: 100%;
 }
