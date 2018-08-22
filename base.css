@@ -66,5 +66,19 @@ input[type=date] {
 }
 .rectangle {
     background-color: white;
-    margin-top: 50px;
- }
+    margin-top: 30px;
+    box-shadow: 0 0 30px gray;
+}
+.about {
+    background: url("img/icons_dots.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+} 
+.about h1 {
+    padding-top: 10%;    
+}
+.about a {
+    color: #0F63AF;
+    text-decoration: underline;
+}
