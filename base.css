@@ -2,9 +2,9 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #0F63AF;
 }
-body h1 {
+h1 {
     font-size: 50px;
-    margin-top: 30px;
+    padding-top: 30px;
 }
 body p {
     font-size: 26px;
@@ -33,7 +33,7 @@ ion-icon {
 .header-text {
     margin-top: 55px;
 }
-input {
+.search input {
    
     border: 1px solid #0F63AF;
    
@@ -43,10 +43,10 @@ input {
     padding: 12px 20px 12px 40px;
     
 }
-input[type=text] {
+.search input[type=text] {
     background-image: url('img/pin.png');
 }
-input[type=date] {
+.search input[type=date] {
     background-image: url('img/date.png');
 }
 .btn {
@@ -87,4 +87,11 @@ input[type=date] {
 }
 .services img {
      max-width: 100%;
+}
+.hello {
+    background-color: #F8F8F8;
+    height: 500px;
+}
+.hello h1 {
+    padding-top: 60px;
 }
